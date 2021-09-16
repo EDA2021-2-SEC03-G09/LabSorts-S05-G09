@@ -1,5 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
+Santiago Latorre 202111851
+Luis Ángel Vargas 202117081
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
